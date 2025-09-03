@@ -4,4 +4,4 @@
 <p>2 - Postgres(Container)</p>
 <p>3 - Sequelize</p>
 
-Usando o container do postgres armazando as informações do banco de dados da noss API.
+Usando o container com o postgres para armazenar as informações da nossa API.
