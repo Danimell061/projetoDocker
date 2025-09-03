@@ -2,7 +2,7 @@ import express from 'express'
 import User from './models/User.js'
 import Sequelize from 'sequelize'
 import config from './config/database.js'
-import userRoutes from './routes.js'
+import userRoutes from './routes/routes.js'
 
 const app = express()
 app.use(express.json())
